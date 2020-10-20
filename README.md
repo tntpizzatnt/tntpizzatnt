@@ -1,12 +1,12 @@
 ## Hi there 👋 im @tntpizzatnt
 
 ## A little about myself:
-Im a self taught programmer and a wanna be full stack developer who messes around in iOS Development, and Python.
+Im a self taught programmer and a wanna be full stack developer who messes around in iOS Development and Python.
 
 ## Languages
-Im well versed in Python, and basic Web Development
+Im well versed in Python and basic Web Development
 
-## What Languages Im Always Learning and Improving:
+## What Languages Im Learning and Improving on:
 1. Python
 2. Basic Web Dev (HTML, Javascript, CSS)
 3. NodeJs
