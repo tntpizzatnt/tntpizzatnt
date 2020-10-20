@@ -1,7 +1,7 @@
 ## Hi there 👋 im @tntpizzatnt
 
 ## A little about myself:
-Im a self taught programmer and a wanna be full stack developer who messes around in iOS Development.
+Im a self taught programmer and a wanna be full stack developer who messes around in iOS Development, and Python.
 
 ## Languages
 Im well versed in Python, and basic Web Development
