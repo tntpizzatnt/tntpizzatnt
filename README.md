@@ -22,11 +22,13 @@ Im well versed in Python, and basic Web Development
 ## I'm Currently Working on:
 - Rust Projects
 
-## I'm Looking to collaborate with anyone as long as learning is involved and they are open to the mistakes that might come.
+## Collaboration 
+I'm Looking to collaborate with anyone as long as learning is involved and they are open to the mistakes that might come.
 
 ## Feel Free to ask Me Questions About Any of My Projects
 
-## I'm always open to help so if you see a mistake feel free to fix it
+## Mistakes & Help
+I'm always looking for extra eyes to find mistakes so if you see a mistake feel free to fix it, or atleast bring it to my attention so I can fix it.
 
 ## How to Reach Me
 If it can't be handled on gitHub, feel free to message me on discord `@tntpizzatnt#9999`
