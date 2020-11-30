@@ -8,12 +8,13 @@ Im well versed in Python and basic Web Development
 
 ## What Languages Im Learning and Improving on:
 1. Python
-2. Basic Web Dev (HTML, Javascript, CSS)
-3. NodeJs
-4. Java
-5. ObjC
-6. Rust
-7. The occasional Dabble in C Languages (C++)<br />
+2. NodeJs
+3. Go
+4. Basic Web Dev (HTML, Javascript, CSS)
+5. Java
+6. ObjC
+7. Rust
+8. The occasional Dabble in C Languages (C++)<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tntpizzatnt&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ## I'm Currently Learning:
