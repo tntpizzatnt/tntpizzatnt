@@ -1,7 +1,7 @@
 ## Hi there 👋 im @tntpizzatnt
 
 ## A little about myself:
-Im a self taught programmer and a wanna be full stack developer who messes around in iOS Development and Python.
+Im a self taught programmer who messes around with stuff in my free time.
 
 ## Languages
 Im well versed in Python and basic Web Development
@@ -14,14 +14,14 @@ Im well versed in Python and basic Web Development
 5. Java
 6. ObjC
 7. Rust
-8. The occasional Dabble in C Languages (C++)<br />
+8. The occasional Dabble in C++<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tntpizzatnt&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ## I'm Currently Learning:
-- Rust
+- Rust, Go and Ruby
 
 ## I'm Currently Working on:
-- Rust Projects
+- brainfrick projects
 
 ## Collaboration 
 I'm Looking to collaborate with anyone as long as learning is involved and they are open to the mistakes that might come.
