@@ -4,17 +4,17 @@
 Im a self taught programmer who messes around with stuff in my free time.
 
 ## Languages
-Im well versed in Python and basic Web Development
+Im well versed in Rust and Go, currently learning Haskell, Ruby, and *maybe Assembly*
 
 ## What Languages Im Learning and Improving on:
-1. Python
-2. NodeJs
-3. Go
-4. Basic Web Dev (HTML, Javascript, CSS)
-5. Java
-6. ObjC
-7. Rust
-8. The occasional Dabble in C++<br />
+1. Rust
+2. Go
+3. Ruby
+4. Java
+5. Python
+6. Basic Web Dev (HTML, Javascript, CSS)
+7. ObjC
+8. *Want to get into Assembly and C*<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tntpizzatnt&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ## I'm Currently Learning:
